@@ -14,10 +14,10 @@ const UserOption = () => {;
     <div className="min-h-screen bg-gradient-to-br from-purple-50 to-indigo-100 flex flex-col items-center justify-center p-4">
       <div className="text-center mb-12">
         <h1 className="text-4xl md:text-6xl font-bold text-purpleColor animate-bounce mb-4">
-        Holy Cross School
+        Edu-Teck
         </h1>
         <p className="text-black-300 max-w-2xl mx-auto animate-fade-in">
-          Welcome to Holy Cross School - Your comprehensive educational platform. Choose
+          Welcome to Edu-Teck - Your comprehensive educational platform. Choose
           your role to get started and explore a world of learning
           possibilities.
         </p>

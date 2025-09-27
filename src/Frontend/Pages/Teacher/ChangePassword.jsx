@@ -73,7 +73,7 @@ const PasswordChange = () => {
               Change Password
             </h1>
             <h2 className="mt-6 text-black">
-              Update your <span className="text-purpleColor">Holy Cross School</span>
+              Update your <span className="text-purpleColor">Edu-Teck</span>
               password 🔐
             </h2>
           </div>

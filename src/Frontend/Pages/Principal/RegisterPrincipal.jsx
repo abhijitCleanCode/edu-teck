@@ -96,12 +96,12 @@ const RegisterPrincipal = () => {
                   Welcome 👋
                 </h1>
                 <h2 className="mt-6 text-black">
-                  Get Started with <span className="text-purpleColor">Holy Cross School </span>
+                  Get Started with <span className="text-purpleColor">Edu-Teck </span>
                    🚀
                 </h2>
                 <p className="text-black-300">
                   <i>
-                    Be the part of Holy Cross School! The perfect platform to shape the future
+                    Be the part of Edu-Teck! The perfect platform to shape the future
                     of education
                   </i>
                 </p>
@@ -212,7 +212,7 @@ const RegisterPrincipal = () => {
 
             <div className="text-14-regular mt-20 flex justify-between pb-16 lg:pb-18">
               <p className="justify-items-end text-black-300 xl:text-left">
-                © 2025 Holy Cross School. All rights reserved
+                © 2025 Edu-Teck. All rights reserved
               </p>
             </div>
           </div>

@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import {Link} from "react-router-dom"
 import { useDispatch } from "react-redux";
 import { setShowLogoutConfirm} from "../../../Store/slice";
-import {holycross} from '../../../assets/index'
+import {eduteck, holycross} from '../../../assets/index'
 import {
   Home,
   User,
@@ -307,9 +307,9 @@ const Sidebar = ({ isOpen, role, onMenuClick }) => {
       <div className="px-4 mt-4 flex items-center justify-between">
         <Link to="/" className="h4 font-medium text-black gap-2 flex flex-row items-center">
         
-        <img src={holycross} alt="Holy Cross School Logo" className="size-8 rounded-full" />
+        <img src={eduteck} alt="logo" className="w-12 h-12 rounded-full" />
         
-          Holy Cross School
+          Edu-Teck
         </Link>
         <button onClick={onMenuClick}>
           <span>

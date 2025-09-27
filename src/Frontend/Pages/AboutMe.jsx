@@ -52,7 +52,7 @@ const ProfilePage = () => {
                 </div>
                 <div className="flex justify-start text-left gap-2">
                   <p className="text-gray-600 text-sm mb-1 truncate">
-                    {user?.description || "I am glad to be a part of Holy Cross School"}
+                    {user?.description || "I am glad to be a part of Edu-Teck"}
                   </p>
                 </div>
               </div>

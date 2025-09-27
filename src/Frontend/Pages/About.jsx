@@ -5,7 +5,7 @@
     return (
       <div className="py-20 bg-gray-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h1 className="text-4xl font-bold text-center mb-10">Welcome to Holy Cross School</h1>
+          <h1 className="text-4xl font-bold text-center mb-10">Welcome to Edu-Teck</h1>
           <p className="text-xl text-center text-gray-600 mb-16">
             Transforming education through digital innovation and seamless connectivity
           </p>
@@ -45,13 +45,13 @@
             <div>
               <h2 className="text-3xl font-bold mb-4">Our Mission</h2>
               <p className="text-gray-600">
-                Holy Cross School is committed to revolutionizing education by providing a comprehensive digital
+                Edu-Teck is committed to revolutionizing education by providing a comprehensive digital
                 platform that connects students, teachers, and schools. We believe in making quality
                 education accessible and manageable through innovative technology solutions.
               </p>
             </div>
             <div>
-              <h2 className="text-3xl font-bold mb-4">Why Choose Holy Cross School?</h2>
+              <h2 className="text-3xl font-bold mb-4">Why Choose Edu-Teck?</h2>
               <ul className="space-y-2 text-gray-600">
                 <li className="flex items-center">
                   <span className="w-2 h-2 bg-blue-500 rounded-full mr-2"></span>
